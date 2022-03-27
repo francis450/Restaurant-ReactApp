@@ -20,11 +20,11 @@ class App extends Component{
     <Navbar dark color="primary">
       <div className="container">
         <NavbarBrand href="/">Ristorante Con Fusion</NavbarBrand>
-      </div>
+      </div> 
     </Navbar>
     <Menu dishes = {this.state.dishes} />
     </div>
   );
 }
 }
-export default A    pp;
+export default App;
