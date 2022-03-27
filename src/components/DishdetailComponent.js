@@ -3,4 +3,5 @@ import {DISHES} from './shared/dishes';
 
 class DishDetail extends Component{
 
+
 }
